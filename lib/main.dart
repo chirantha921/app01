@@ -13,7 +13,7 @@ class EsoftCard extends StatelessWidget{
     return Scaffold(
       backgroundColor: Colors.blue[900],
       appBar: AppBar(
-        title: const Text('Esoft ID Card'),
+        title: const Text('Esoft ID 455556'),
         centerTitle: true,
         backgroundColor: Colors.blue[800],
         elevation: 0.0,
